@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Enngeki</string>
+    <string name="txt_movie_title">Movie Title</string>
+    <string name="txt_release_date">Release Date</string>
+    <string name="txt_enngeki">Enngeki</string>
+    <string name="txt_recent_movies">Recent Movies</string>
+</resources>
